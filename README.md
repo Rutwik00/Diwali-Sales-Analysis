@@ -14,3 +14,14 @@ This project analyzes sales data from the Diwali festival season to uncover key 
 - Customer Segmentation: Married women and customers from IT, Healthcare, and Aviation sectors show higher purchasing tendencies.
 - Spending Patterns: The 26-35 age group has the highest total amount of purchases, with females generally spending more than males across categories.
  <br>
+ <br>
+
+<br>
+
+#Project Highlights
+<br>
+-Utilized pandas for data cleaning and manipulation
+-Created visualizations using matplotlib and seaborn
+-Conducted in-depth analysis of customer demographics, product preferences, and regional sales trends
+-Derived actionable insights for targeted marketing and inventory optimization
+<br>
