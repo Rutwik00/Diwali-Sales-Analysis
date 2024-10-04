@@ -20,8 +20,8 @@ This project analyzes sales data from the Diwali festival season to uncover key 
 
 #Project Highlights
 <br>
--Utilized pandas for data cleaning and manipulation
--Created visualizations using matplotlib and seaborn
--Conducted in-depth analysis of customer demographics, product preferences, and regional sales trends
--Derived actionable insights for targeted marketing and inventory optimization
+- Utilized pandas for data cleaning and manipulation
+- Created visualizations using matplotlib and seaborn
+- Conducted in-depth analysis of customer demographics, product preferences, and regional sales trends
+- Derived actionable insights for targeted marketing and inventory optimization
 <br>
